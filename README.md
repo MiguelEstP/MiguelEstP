@@ -1,8 +1,8 @@
 ## Olá! Me chamo Miguel!
 <div>
   <a href="https://github.com/MiguelEstP">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MiguelEstP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstP&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MiguelEstP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstP&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 ##
