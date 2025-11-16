@@ -18,16 +18,15 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Linear_Algebra-4A90E2?style=for-the-badge" alt="LinearAlgebra" />
 </div>
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstP&layout=compact&langs_count=16&theme=algolia" alt="miguelestivalet" />
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelEstP&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelEstP&theme=algolia" />
 </p>
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstP&layout=compact&langs_count=16&theme=algolia" alt="miguelestivalet" />
 
 </div>
 
