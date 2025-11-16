@@ -23,8 +23,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstP&layout=compact&langs_count=16&theme=algolia" alt="miguelestivalet" />
 
----
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelEstP&theme=algolia" />
 </p>
