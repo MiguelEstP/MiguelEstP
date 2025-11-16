@@ -21,7 +21,9 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelEstP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="miguelestivalet" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstP&layout=compact&langs_count=16&theme=algolia" alt="miguelestivalet" />
+</p>
 
 ---
 
